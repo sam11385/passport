@@ -1,6 +1,4 @@
-# passport
-
-passport js exercise
+# Passport JS Exercise
 
 ## STEP 1
 
