@@ -26,4 +26,4 @@ Write an express server that serves a simple website at the path '/'.
 
 ## STEP 3
 
-Incorporate PassportJS into your application (use the demo app in the resources folder as a reference). Implement a LocalStrategy that will let users create accounts and log in with their email address and a password. The "login" and "logout" buttons on your website should trigger the "auth/login" and "auth/logout" routes respectively. Use EJS to render either "Logged in" or "Not Logged in" to the webpage.
+Incorporate PassportJS into your application. Implement a LocalStrategy that will let users create accounts and log in with their email address and a password. The "login" and "logout" buttons on your website should trigger the "auth/login" and "auth/logout" routes respectively. Use EJS to render either "Logged in" or "Not Logged in" to the webpage.
