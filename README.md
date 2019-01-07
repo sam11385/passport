@@ -5,11 +5,11 @@
 <ul>
 <li>Create a new Postgres database with "users" table.</li>
 <li>The table should have at least the following columns:</li>
-</ul>
 <ul>
 <li>id</li>
 <li>email</li>
 <li>password</li>
+</ul>
 </ul>
 
 ## STEP 2
