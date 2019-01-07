@@ -6,16 +6,23 @@ passport js exercise
 
 <ul>
 <li>Create a new Postgres database with "users" table.</li>
-<li>The table should have at least the following columns:
-</li>
-
-id
-email
-password
+<li>The table should have at least the following columns:</li>
+</ul>
+<ul>
+<li>id</li>
+<li>email</li>
+<li>password</li>
+</ul>
 
 ## STEP 2
 
-Write an express server that serves a simple website at the path '/'. The website should have a login form, a logout button, as well as an h1 tag that will either say "Logged in" or "Not Logged in".
+Write an express server that serves a simple website at the path '/'.
+
+<ul>The website should have: 
+<li>a login form</li>
+<li>a logout button</li>
+<li>h1 tag that will either say "Logged in" or "Not Logged in"</li>
+</ul>
 
 ## STEP 3
 
