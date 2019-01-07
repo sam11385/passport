@@ -16,7 +16,9 @@
 
 Write an express server that serves a simple website at the path '/'.
 
-<ul>The website should have: 
+<p>The website should have:</p>
+
+<ul>
 <li>a login form</li>
 <li>a logout button</li>
 <li>h1 tag that will either say "Logged in" or "Not Logged in"</li>
