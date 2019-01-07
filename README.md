@@ -4,7 +4,10 @@ passport js exercise
 
 ## STEP 1
 
-Create a new Postgres database with "users" table. The table should have at least the following columns:
+<ul>
+<li>Create a new Postgres database with "users" table.</li>
+<li>The table should have at least the following columns:
+</li>
 
 id
 email
